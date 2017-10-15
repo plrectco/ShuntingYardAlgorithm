@@ -2,7 +2,7 @@ You are building an educational website and want to create a simple calculator f
 
  We also want to allow parentheses in our input. Given an expression string using the "+", "-", "(", and ")" operators like "5+(16-2)", write a function to parse the string and evaluate the result.
 
- Sample input:
+    Sample input:
     expression1 = "5+16-((9-6)-(4-2))"
     expression2 = "22+(2-4)"
           
